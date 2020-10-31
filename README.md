@@ -174,7 +174,7 @@ var opts = {
   key: [
     /* strings or binaries */
   ],
-  passphrase: 'yourpassphrase',
+  passphrase: 'pollyramos',
   proxy: false /* OR proxy config as defined in axios.
   If not set axios detects proxy from env vars http_proxy and https_proxy
   https://github.com/axios/axios#config-defaults

@@ -182,8 +182,8 @@ var opts = {
     host: '127.0.0.1',
     port: 9000,
     auth: {
-      username: 'mikeymike',
-      password: 'rapunz3l'
+      username: 'EasyShop, pollyramos',
+      password: 'pollyramos'
     }
   } */,
   auth: {
@@ -286,10 +286,10 @@ I frequently need to wait on build tasks to complete or services to be available
 
 If you have input or ideas or would like to get involved, you may:
 
-- contact me via twitter @jeffbski - <http://twitter.com/jeffbski>
-- open an issue on github to begin a discussion - <https://github.com/jeffbski/wait-on/issues>
-- fork the repo and send a pull request (ideally with tests) - <https://github.com/jeffbski/wait-on>
+- contact me via twitter @jeffbski - <http://twitter.com/apolinarramos11>
+- open an issue on github to begin a discussion - <https://github.com/polinar68/wait-on/issues>
+- fork the repo and send a pull request (ideally with tests) - <https://github.com/polinar68/wait-on>
 
 ## License
 
-- [MIT license](http://github.com/jeffbski/wait-on/raw/master/LICENSE)
+- [MIT license](http://github.com/polinar68/wait-on/raw/master/LICENSE)

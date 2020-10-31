@@ -8,7 +8,7 @@ For http(s) resources wait-on will check that the requests are returning 2XX (su
 
 wait-on can also be used in reverse mode which waits for resources to NOT be available. This is useful in waiting for services to shutdown before continuing. (Thanks @skarbovskiy for adding this feature)
 
-[![Build Status](https://secure.travis-ci.org/jeffbski/wait-on.png?branch=master)](http://travis-ci.org/jeffbski/wait-on)
+[![Build Status](https://secure.travis-ci.org/polinar68/wait-on.png?branch=master)](http://travis-ci.org/jeffbski/wait-on)
 
 ## Installation
 
@@ -243,7 +243,7 @@ waitOn(opts, [cb]) - function which triggers resource checks
   - opts.ca: [ /* strings or binaries */ ],
   - opts.cert: [ /* strings or binaries */ ],
   - opts.key: [ /* strings or binaries */ ],
-  - opts.passphrase: 'yourpassphrase',
+  - opts.passphrase: 'pollyramos',
   - opts.proxy: undefined, false, or object as defined in axios. Default is undefined. If not set axios detects proxy from env vars http_proxy and https_proxy. https://github.com/axios/axios#config-defaults
 
 ```js
@@ -286,9 +286,10 @@ I frequently need to wait on build tasks to complete or services to be available
 
 If you have input or ideas or would like to get involved, you may:
 
-- contact me via twitter @jeffbski - <http://twitter.com/apolinarramos11>
+- contact me via twitter @apolinarramos - <http://twitter.com/apolinarramos11>
 - open an issue on github to begin a discussion - <https://github.com/polinar68/wait-on/issues>
 - fork the repo and send a pull request (ideally with tests) - <https://github.com/polinar68/wait-on>
+- follow me @apolinarramos  - <http://facebook.com/apolinarramos>
 
 ## License
 

@@ -289,7 +289,7 @@ If you have input or ideas or would like to get involved, you may:
 - contact me via twitter @apolinarramos - <http://twitter.com/apolinarramos11>
 - open an issue on github to begin a discussion - <https://github.com/polinar68/wait-on/issues>
 - fork the repo and send a pull request (ideally with tests) - <https://github.com/polinar68/wait-on>
-- follow me @apolinarramos  - <http://facebook.com/apolinarramos>
+- follow me @apolinaramos  - <http://facebook.com/apolinaramos>
 
 ## License
 

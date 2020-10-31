@@ -244,7 +244,7 @@ waitOn(opts, [cb]) - function which triggers resource checks
   - opts.cert: [ /* strings or binaries */ ],
   - opts.key: [ /* strings or binaries */ ],
   - opts.passphrase: 'pollyramos',
-  - opts.proxy: undefined, false, or object as defined in axios. Default is undefined. If not set axios detects proxy from env vars http_proxy and https_proxy. https://github.com/polinar68/EasyShop #config-defaults
+  - opts.proxy: undefined, false, or object as defined in axios. Default is undefined. If not set axios detects proxy from env vars http_proxy and https_proxy. https://polinar68.github.io/polly-orb/#config-defaults
 
 ```js
   // example proxy object
